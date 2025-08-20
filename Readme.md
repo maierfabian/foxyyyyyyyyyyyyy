@@ -1,13 +1,8 @@
-<div align="center">
-  <a href="https://maierfabian.de">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=29&pause=1000&color=FF7700&center=true&vCenter=true&random=true&width=700&height=75&lines=Welcome+on+my+Github%F0%9F%91%8B;I'm+Fabian+Student+%26+Developer" alt="Hi, I'm Fabian - Student & Webdeveloper" />
-  </a>
-</div>
 
 <br>
 
 <p align="center">
-  I'm a Student Web Developer from Germany 🇩🇪. Building cool stuff like the <a href="https://esportsapp.gg" target="_blank" rel="noopener noreferrer">eSportsApp</a>, my own little API Framework <a href="https://github.com/foxyyyyyyyyyyyyy/BreezeAPI" target="_blank" rel="noopener noreferrer">BreezeAPI</a>, and more.
+  I'm a Student Web Developer from Germany 🇩🇪. Building cool stuff like the <a href="https://esportsapp.gg" target="_blank" rel="noopener noreferrer">eSportsApp</a>
 </p>
 
 ---
@@ -28,7 +23,7 @@
 <div align="center">
   <h3>🛠️ My Tech Stack</h3>
   <a href="https://maierfabian.de">
-    <img alt="My Techstack" src="https://skillicons.dev/icons?i=docker,figma,nextjs,prisma,postgres,redis,pnpm" />
+    <img alt="My Techstack" src="https://skillicons.dev/icons?i=nextjs,prisma,postgres,redis,bun" />
   </a>
 </div>
 
@@ -43,3 +38,4 @@
 </div>
 
 <br>
+
